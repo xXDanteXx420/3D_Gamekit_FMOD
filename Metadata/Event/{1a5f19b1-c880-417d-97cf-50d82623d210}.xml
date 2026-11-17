@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1a5f19b1-c880-417d-97cf-50d82623d210}">
+		<property name="note">
+			<value>2D One-Shot sound for health pickup</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>
