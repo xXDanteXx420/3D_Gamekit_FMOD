@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{4e54af5d-bdec-47d3-9e99-7eff0f0c5c80}">
+		<property name="note">
+			<value>3D One-Shot sound that plays when stepping on the pressure pad on level 2</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

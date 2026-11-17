@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a3cbe1cc-b68a-418a-8139-9cddecdb6600}">
+		<property name="note">
+			<value>3D One-Shot sound that plays when interacting with door switches</value>
+		</property>
 		<property name="color">
 			<value>Blue</value>
 		</property>

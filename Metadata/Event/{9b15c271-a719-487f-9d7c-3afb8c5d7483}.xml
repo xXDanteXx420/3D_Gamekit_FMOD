@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9b15c271-a719-487f-9d7c-3afb8c5d7483}">
+		<property name="note">
+			<value>3D one shot sound for spitter attack</value>
+		</property>
 		<property name="color">
 			<value>Red</value>
 		</property>

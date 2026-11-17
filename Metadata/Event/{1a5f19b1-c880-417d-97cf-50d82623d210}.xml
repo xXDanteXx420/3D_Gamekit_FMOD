@@ -98,6 +98,9 @@
 		<property name="start">
 			<value>0.14999999999999999</value>
 		</property>
+		<property name="length">
+			<value>0.93039589885210094</value>
+		</property>
 		<property name="pitch">
 			<value>9.5</value>
 		</property>
@@ -158,7 +161,7 @@
 	</object>
 	<object class="AutomationPoint" id="{011d90b6-1aff-4286-844a-dc3614affe50}">
 		<property name="position">
-			<value>1.1499999999999999</value>
+			<value>1.080395898852101</value>
 		</property>
 		<property name="value">
 			<value>0</value>
