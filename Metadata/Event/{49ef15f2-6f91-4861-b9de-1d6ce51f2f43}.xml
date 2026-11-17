@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{49ef15f2-6f91-4861-b9de-1d6ce51f2f43}">
 		<property name="note">
-			<value>One-Shot sound for detroying a box</value>
+			<value>3D One-Shot sound for detroying a box</value>
 		</property>
 		<property name="color">
 			<value>Blue</value>
