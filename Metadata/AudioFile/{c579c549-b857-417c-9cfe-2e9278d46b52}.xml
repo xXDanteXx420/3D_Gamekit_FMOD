@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c579c549-b857-417c-9cfe-2e9278d46b52}">
+		<property name="assetPath">
+			<value>Ambiance/amb_drip_003.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>24.304331065759637</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{69ad3fd4-152b-4bbf-815b-9b3e2118fd03}</destination>
+		</relationship>
+	</object>
+</objects>

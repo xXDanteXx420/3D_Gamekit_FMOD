@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4885e7c9-dc18-48de-95ae-468e7d6cd988}">
+		<property name="assetPath">
+			<value>ELLEN VOICE/ellen_jump.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.37648526077097505</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{69ad3fd4-152b-4bbf-815b-9b3e2118fd03}</destination>
+		</relationship>
+	</object>
+</objects>
