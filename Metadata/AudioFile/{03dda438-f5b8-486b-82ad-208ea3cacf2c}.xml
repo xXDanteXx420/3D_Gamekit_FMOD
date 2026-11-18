@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{03dda438-f5b8-486b-82ad-208ea3cacf2c}">
 		<property name="assetPath">
-			<value>Enemy/gunner/steamstage_001.wav</value>
+			<value>Boss/gunner/steamstage_001.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{11f62e5e-923f-4db3-a703-af0e0b2b425a}">
+		<property name="color">
+			<value>Magenta</value>
+		</property>
 		<property name="assetPath">
-			<value>Footsteps/</value>
+			<value>Avatar/Footsteps/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{69ad3fd4-152b-4bbf-815b-9b3e2118fd03}</destination>

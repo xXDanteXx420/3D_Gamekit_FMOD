@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3e04d6ef-2cde-49f8-b327-8ab6fc04ad5a}">
 		<property name="assetPath">
-			<value>Ambiance/amb_crickets.wav</value>
+			<value>Environment/Ambiance/amb_crickets.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

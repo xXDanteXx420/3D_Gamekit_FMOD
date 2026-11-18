@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{027a505d-3439-44e9-85d2-b6c2f9084d2c}">
 		<property name="assetPath">
-			<value>foley/Acid/acid pool_002.wav</value>
+			<value>Environment/AcidPool/acid pool_002.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

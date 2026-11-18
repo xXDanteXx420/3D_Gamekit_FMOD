@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{4aa6b1ea-4a0d-491d-bb07-560362d0eb5a}">
 		<property name="assetPath">
-			<value>Ambiance/amb_forest_wind_strong.ogg</value>
+			<value>Environment/Ambiance/amb_forest_wind_strong.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

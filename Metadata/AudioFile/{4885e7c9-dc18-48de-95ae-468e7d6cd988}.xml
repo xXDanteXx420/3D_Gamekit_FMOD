@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{4885e7c9-dc18-48de-95ae-468e7d6cd988}">
 		<property name="assetPath">
-			<value>ELLEN VOICE/ellen_jump.wav</value>
+			<value>Avatar/Voice/ellen_jump.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
